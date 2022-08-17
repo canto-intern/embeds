@@ -1,0 +1,26 @@
+{
+ "embeds": [
+  {
+   "footer": {
+    "text": "${usertag}",
+    "icon_url": "${useravatarurl}"
+   },
+   "title": "User roles updated",
+   "color": "#39F077",
+   "timestamp": "${nowtimestamp}",
+   "fields": [
+    {
+     "name": "Selected Roles:",
+     "value": " **${rolesadded}**",
+     "inline": false
+    }
+   ],
+   "thumbnail": {
+    
+   },
+   "author": {
+    
+   }
+  }
+ ]
+}
